@@ -2,7 +2,7 @@
 This is a password generator in your terminal that the length you give.<br>
 > If you don't want hackers easily guess your passwords please use this.
 
-# Installation
+# Download
 ```python
 git clone https://github.com/Turbo-Charged-Eytron/Passwd-Generator.git
 python passwd-generator.py #Starts the program.
