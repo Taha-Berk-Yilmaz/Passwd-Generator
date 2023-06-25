@@ -4,7 +4,6 @@ This is a password generator in your terminal that the length you give.
 # Installation
 ```python
 git clone https://github.com/Turbo-Charged-Eytron/Passwd-Generator.git
-pip install -r requirements.txt
 python passwd-generator.py #Starts the program.
 ```
 
