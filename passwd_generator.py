@@ -4,9 +4,9 @@ passwd = ""
 i = 0
 abc = "abcdefghijklmnoprstuvyzqwx"
 ABC = "ABCDEFGHIJKLMNOPRSTUVYZQWX"
-dots = "!'^+%&/()=?_-*.:,;<>|#$}{[]@"
+characters = "!'^+%&/()=?_-*.:,;<>|#$}{[]@"
 numbers = "0123456789"
-list1 = [abc, ABC, dots, numbers]
+list1 = [abc, ABC, characters, numbers]
 
 count = int(input("Hey! We are here to give you a strong password.\nIf you want a strong password you have to enter the lengt above 8.\nSo please give us length of the password:"))
 
